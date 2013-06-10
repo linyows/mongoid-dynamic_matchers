@@ -60,7 +60,6 @@ module Mongoid
       end
 
       def define
-        ap body
         model.class_eval <<-CODE, __FILE__, __LINE__ + 1
           def self.#{name}(#{signature})
             #{body}
