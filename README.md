@@ -1,7 +1,7 @@
 Mongoid::DynamicMatchers
 ========================
 
-[![Gem Version](https://badge.fury.io/rb/mongoid-dynamic_matchers.png)][gem]
+![Gem Version](https://badge.fury.io/rb/mongoid-dynamic_matchers.png)
 
 Support `find_by_xxx_and_yyy` like a activerecord to mongoid.
 
