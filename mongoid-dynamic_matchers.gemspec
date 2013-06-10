@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["linyows@gmail.com"]
   spec.description   = %q{Support `find_by_xxx_and_yyy` like activerecord to mongoid.}
   spec.summary       = %q{This is a mongoid extension.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/linyows/mongoid-dynamic_matchers"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
