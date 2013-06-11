@@ -1,9 +1,21 @@
 Mongoid::DynamicMatchers
 ========================
 
-![Gem Version](https://badge.fury.io/rb/mongoid-dynamic_matchers.png)
+[![Gem Version](https://badge.fury.io/rb/mongoid-dynamic_matchers.png)][gem]
+[![Build Status](https://secure.travis-ci.org/linyows/mongoid-dynamic_matchers.png?branch=master)][travis]
+[![Dependency Status](https://gemnasium.com/linyows/mongoid-dynamic_matchers.png?travis)][gemnasium]
+[![Code Climate](https://codeclimate.com/github/linyows/mongoid-dynamic_matchers.png)][codeclimate]
+[![Coverage Status](https://coveralls.io/repos/linyows/mongoid-dynamic_matchers/badge.png?branch=master)][coveralls]
+
+[gem]: https://rubygems.org/gems/mongoid-dynamic_matchers
+[travis]: http://travis-ci.org/linyows/mongoid-dynamic_matchers
+[gemnasium]: https://gemnasium.com/linyows/mongoid-dynamic_matchers
+[codeclimate]: https://codeclimate.com/github/linyows/mongoid-dynamic_matchers
+[coveralls]: https://coveralls.io/r/linyows/mongoid-dynamic_matchers
 
 Support `find_by_xxx_and_yyy` like a activerecord to mongoid.
+
+NOTE: stop supporting activerecord-deprecated_finders from Rails5
 
 Installation
 ------------
